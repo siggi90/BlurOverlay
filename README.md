@@ -3,4 +3,4 @@ Add blur overlay with semi transparent dark overlay as backdrop for dialogs, mes
 
 for more information visit https://noob.software/support/#index/instruction#42&
 
-NuGet Packag: https://www.nuget.org/packages/BlurOverlay
+NuGet Package: https://www.nuget.org/packages/BlurOverlay
