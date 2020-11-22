@@ -3,7 +3,7 @@ The structure of your XAML must be something like this:
 
     <AbsoluteLayout x:Name="body_wrap" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
         <StackLayout x:Name="content" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All">
-            <!-- place content here -->
+            place content here
         </StackLayout>
         <skia:SKCanvasView x:Name="blur_overlay" IsVisible="False" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All">
         </skia:SKCanvasView>
